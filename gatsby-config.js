@@ -1,29 +1,29 @@
 const feedOptions = {
-  title: 'Home Musings',
+  title: 'Home Musing',
   description: 'A Home Movies Podcast',
-  feed_url: 'http://example.com/podcast.xml',
-  site_url: 'http://example.com',
+  feed_url: 'https://hm-wip-dev.netlify.com/feed.xml',
+  site_url: 'https://hm-wip-dev.netlify.com/',
   managingEditor: 'Colin Creasy',
   webMaster: 'Jeremy Van Doren',
   copyright: '2019 - 2020 Colin Creasy & Jeremy Van Doren',
   language: 'en',
   categories: ['Animation & Manga','Category 2','Category 3'],
-  pubDate: 'May 20, 2019 04:00:00 GMT',
+  pubDate: 'January 19, 2020 04:00:00 GMT',
   ttl: '60',
   custom_namespaces: {
     'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'
   },
   custom_elements: [
-    {'itunes:subtitle': 'A Home Movies Podcast'},
-    {'itunes:author': 'Home Musings'},
+    {'itunes:subtitle': 'Home Musing: A Home Movies Podcast'},
+    {'itunes:author': 'Home Musing'},
     {'itunes:summary': 'A podcast about the hilarious and influential animated show Home Movies.'},
     {'itunes:owner': [
-      {'itunes:name': 'Home Musings'},
-      {'itunes:email': 'homemusings@neonowl.net'}
+      {'itunes:name': 'Home Musing'},
+      {'itunes:email': 'homemusing@neonowl.net'}
     ]},
     {'itunes:image': {
       _attr: {
-        href: 'http://example.com/podcasts/everything/AllAboutEverything.jpg'
+        href: 'https://neonowl.nyc3.digitaloceanspaces.com/img/Homemovies_sm.png'
       }
     }},
     {'itunes:category': [
