@@ -7,7 +7,7 @@ const feedOptions = {
   webMaster: 'Jeremy Van Doren',
   copyright: '2019 - 2020 Colin Creasy & Jeremy Van Doren',
   language: 'en',
-  categories: ['Animation & Manga','Category 2','Category 3'],
+  categories: ['TV Reviews','Category 2','Category 3'],
   pubDate: 'January 19, 2020 04:00:00 GMT',
   ttl: '60',
   custom_namespaces: {
@@ -30,7 +30,8 @@ const feedOptions = {
       {_attr: {
         text: 'TV Reviews'
       }}
-    ]}
+    ]},
+    {'itunes:explicit': 'false'},
   ]
 }
 
