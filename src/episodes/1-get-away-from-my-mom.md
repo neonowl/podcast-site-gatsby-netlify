@@ -9,7 +9,4 @@ categories:
   - Animation & Manga
   - TV Reviews
 ---
-
-## Episode notes
-
 We talk about the high and low points of the first episode of Home Movies.
