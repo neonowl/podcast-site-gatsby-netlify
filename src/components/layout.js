@@ -5,7 +5,7 @@ export default ({ children }) => (
   <>
   <Helmet>
     <title>Podcast Site</title>
-    <link href="rss.xml"></link>
+    <link href="https://hm-wip-dev.netlify.com/rss.xml" rel="self" type="application/rss+xml"/>
   </Helmet>
   <h1>Podcast Site</h1>
   <h2>With a podcast feed</h2>

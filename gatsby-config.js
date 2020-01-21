@@ -1,7 +1,7 @@
 const feedOptions = {
   title: 'Home Musing',
   description: 'A Home Movies Podcast',
-  feed_url: 'https://hm-wip-dev.netlify.com/feed.xml',
+  feed_url: 'https://hm-wip-dev.netlify.com/rss.xml',
   site_url: 'https://hm-wip-dev.netlify.com/',
   managingEditor: 'Colin Creasy',
   webMaster: 'Jeremy Van Doren',
@@ -31,7 +31,6 @@ const feedOptions = {
         text: 'TV Reviews'
       }}
     ]},
-    {'itunes:explicit': 'false'},
   ]
 }
 
