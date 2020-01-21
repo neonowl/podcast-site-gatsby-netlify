@@ -37,7 +37,7 @@ const feedOptions = {
 module.exports = {
   plugins: [
       {
-          resolve: `gatsby-plugin-podcast-rss-feed`,
+          resolve: `gatsby-plugin-podcast-feed`,
           options: {
               feedOptions
           },
