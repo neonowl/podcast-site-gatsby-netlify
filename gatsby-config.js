@@ -28,12 +28,7 @@ const feedOptions = {
     }},
     {'itunes:category': [
       {_attr: {
-        text: 'Animation & Manga'
-      }},
-      {'itunes:category': {
-        _attr: {
-          text: 'TV Reviews'
-        }
+        text: 'TV Reviews'
       }}
     ]}
   ]
@@ -55,6 +50,7 @@ module.exports = {
         },
       },
       `gatsby-transformer-remark`,
+      `gatsby-plugin-react-helmet`,
   ]
 
 }
