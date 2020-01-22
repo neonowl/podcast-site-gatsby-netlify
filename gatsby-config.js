@@ -7,7 +7,7 @@ const feedOptions = {
   webMaster: 'Jeremy Van Doren',
   copyright: '2019 - 2020 Colin Creasy and Jeremy Van Doren',
   language: 'en',
-  categories: ['TV &amp; Film'],
+  categories: ['TV & Film'],
   pubDate: 'January 19, 2020 04:00:00 GMT',
   ttl: '60',
   explicit: 'false',
