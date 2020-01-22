@@ -7,6 +7,6 @@
   </a>
 </p>
 <h1 align="center">
-  gatsby podcast netlify starter (WIP)
+  gatsby netlify podcast starter (WIP)
 </h1>
 <!-- AUTO-GENERATED-CONTENT:END -->
