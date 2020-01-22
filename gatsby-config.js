@@ -25,7 +25,7 @@ const feedOptions = {
     ]},
     {'itunes:image': {
       _attr: {
-        href: 'https://neonowl.nyc3.digitaloceanspaces.com/img/Homemovies_sm.png'
+        href: 'https://neonowl.nyc3.digitaloceanspaces.com/img/Home-Musing-artwork.png'
       }
     }},
     {'itunes:category': [
