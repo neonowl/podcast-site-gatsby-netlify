@@ -5,9 +5,9 @@ const feedOptions = {
   site_url: 'https://hm-wip-dev.netlify.com/',
   managingEditor: 'Colin Creasy',
   webMaster: 'Jeremy Van Doren',
-  copyright: '2019 - 2020 Colin Creasy & Jeremy Van Doren',
+  copyright: '2019 - 2020 Colin Creasy &amp; Jeremy Van Doren',
   language: 'en',
-  categories: ['TV Reviews','Category 2','Category 3'],
+  categories: ['TV Reviews','Leisure','History'],
   pubDate: 'January 19, 2020 04:00:00 GMT',
   ttl: '60',
   explicit: 'false',
@@ -18,6 +18,7 @@ const feedOptions = {
     {'itunes:subtitle': 'Home Musing: A Home Movies Podcast'},
     {'itunes:author': 'Home Musing'},
     {'itunes:summary': 'A podcast about the hilarious and influential animated show Home Movies.'},
+    {'itunes:explicit':'false'},
     {'itunes:owner': [
       {'itunes:name': 'Home Musing'},
       {'itunes:email': 'homemusing@neonowl.net'}
