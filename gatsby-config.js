@@ -10,6 +10,7 @@ const feedOptions = {
   categories: ['TV Reviews','Category 2','Category 3'],
   pubDate: 'January 19, 2020 04:00:00 GMT',
   ttl: '60',
+  explicit: 'false',
   custom_namespaces: {
     'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'
   },
