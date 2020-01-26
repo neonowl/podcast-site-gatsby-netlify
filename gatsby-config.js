@@ -29,13 +29,8 @@ const feedOptions = {
     }},
     {'itunes:category': [
       {_attr: {
-        text: 'Society &amp; Culture'
+        text: 'History'
       }},
-      {'itunes:category': [
-        {_attr: {
-          text: 'Documentary'
-        }}
-      ]}
     ]},
   ]
 }
