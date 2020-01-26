@@ -29,11 +29,11 @@ const feedOptions = {
     }},
     {'itunes:category': [
       {_attr: {
-        text: 'TV &amp; Film'
+        text: 'Society &amp; Culture'
       }},
       {'itunes:category': [
         {_attr: {
-          text: 'TV Reviews'
+          text: 'Documentary'
         }}
       ]}
     ]},
