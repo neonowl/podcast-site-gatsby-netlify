@@ -29,8 +29,13 @@ const feedOptions = {
     }},
     {'itunes:category': [
       {_attr: {
-        text: 'History'
+        text: 'TV &amp; Film'
       }},
+      {'itunes:category': [
+        {_attr: {
+          text: 'TV &amp; Film'
+        }},
+      ]},
     ]},
   ]
 }
