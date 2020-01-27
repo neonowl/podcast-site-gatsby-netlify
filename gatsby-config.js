@@ -33,7 +33,7 @@ const feedOptions = {
       }},
       {'itunes:category': [
         {_attr: {
-          text: 'TV &amp; Film'
+          text: 'TV Reviews'
         }},
       ]},
     ]},
