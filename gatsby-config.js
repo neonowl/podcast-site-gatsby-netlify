@@ -29,7 +29,7 @@ const feedOptions = {
     }},
     {'itunes:category': [
       {_attr: {
-        text: 'TV &amp; Film'
+        text: 'TV & Film'
       }},
       {'itunes:category': [
         {_attr: {
